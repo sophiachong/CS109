@@ -86,4 +86,10 @@ Temporary Items
 .apdisk
 
 #Temporary data
+<<<<<<< HEAD
 tempdata/
+=======
+hw1/tempdata/
+hw1/.ipynb_checkpoints/
+
+>>>>>>> a1d7d237ac92810dfb15da8ec26bdf13d6d8da1b
